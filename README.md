@@ -1,4 +1,5 @@
-# CustomSpinner [![Release](https://jitpack.io/v/piotrek1543/CustomSpinner.svg)](https://jitpack.io/#iotrek1543/CustomSpinner)
+# CustomSpinner [![Release](https://jitpack.io/v/piotrek1543/CustomSpinner.svg)](https://jitpack.io/#iotrek1543/CustomSpinner) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-CustomSpinner-green.svg?style=true)](https://android-arsenal.com/details/1/4014)
+
 Spinner with hint and open/closed listener that works with jitpack.io.
 
 ![alt tag](assets/ezgif-3622619846.gif)
@@ -51,6 +52,21 @@ How to use it?
         }
     });
 ```
+Issues
+------
+
+Feel free to submit issues and enhancement requests.
+
+Contributing
+------------
+
+Please refer to each project's style guidelines and guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
+
+ 1. **Fork** the repo on GitHub
+ 2. **Clone** the project to your own machine
+ 3. **Commit** changes to your own branch
+ 4. **Push** your work back up to your fork
+ 5. Submit a **Pull request** so that we can review your changes
 
 License
 -------
