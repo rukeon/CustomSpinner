@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.example.piotr.customspinner"
-        minSdkVersion 15
-        targetSdkVersion 24
+        minSdkVersion 9
+        targetSdkVersion 22
         versionCode 1
         versionName "1.0"
     }
